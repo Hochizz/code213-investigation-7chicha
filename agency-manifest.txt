@@ -1,0 +1,8 @@
+AGENCY: [7chicha]
+MOTTO : [Securing the Academic Grid]
+CASE : [CASE 02]
+TEAM :
+ - Role 1: [Wail] (@Hochizz)
+ - Role 2: [Lika] (@likareg569-afk)
+ - Role 3: [Melyssa] (@mayakhouloud492-ship-it)
+ - Role 4: [Ilyes] (@ilyee3s)
