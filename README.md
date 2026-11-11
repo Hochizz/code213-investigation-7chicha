@@ -5,7 +5,7 @@ Target: Academic Database | Vector: Targeted Credential Spear Phishing |
 ------------------------------------------------------------------------
 Investegation Status:
 Roles:
-| Roles 1 |: Lead Maintainer|: `agency-manifest.txt` | [PENDING] |
+| Roles 1 |: Lead Maintainer|: `agency-manifest.txt` | [VERIFIED BY INVESTIGATOR] |
 
 | Role 2 | Threat Analyst | `suspect/threat-actor.md` | [PENDING] |
 
