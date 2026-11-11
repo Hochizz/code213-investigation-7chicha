@@ -1,8 +1,8 @@
 # code213-investigation-7chicha
 Case title: The Midmight Grade Heist
 Scenario ID: SCENARIO-02
-Target: Academic Database | Vector: Targeted Credential Spear Phishing
-----------------------------------------------------------------------
+Target: Academic Database | Vector: Targeted Credential Spear Phishing |
+------------------------------------------------------------------------
 Investegation Status:
 Roles:
 | Roles 1 |: Lead Maintainer|: `agency-manifest.txt` | [PENDING] |
